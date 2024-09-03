@@ -1,9 +1,11 @@
 plugins {
     id("java")
+
+    id("maven-publish")
 }
 
-group = "dev.keith"
-version = "1.0-SNAPSHOT"
+group = "dev.keith.logger"
+version = "1.0-BETA"
 
 repositories {
     mavenCentral()

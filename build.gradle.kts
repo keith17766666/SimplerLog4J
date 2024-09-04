@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "dev.keith.logger"
-version = "1.0-BETA"
+version = "1.1-ALPHA"
 
 repositories {
     mavenCentral()
